@@ -1,0 +1,7 @@
+{
+  "name": "SACHI-WA-BOT",
+  "description": "SACHIBOT",
+  "repository": "https://github.com/SACHIBOT/SACHI-WA-BOT",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+}
